@@ -1,4 +1,4 @@
-# Deploy `sanitation-api` to `{{ free hosting site }}`
+<!-- # Deploy `sanitation-api` to `{{ free hosting site }}`
 
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
 
@@ -173,4 +173,4 @@ git push azure master
 You should be prompted to supply a password, this should be the pass to your account. If not, you can choose a different password at your Dashboard for Azure: **[https://portal.azure.com/](https://portal.azure.com/)**
 
 Choose **App Services** in the sidebar to the left and the choose your app in the list that appears then go to **Deployment Credentials** to change your password for deployment:<br>
-https://docs.microsoft.com/en-us/azure/app-service/app-service-deployment-credentials
+https://docs.microsoft.com/en-us/azure/app-service/app-service-deployment-credentials -->
