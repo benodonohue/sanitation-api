@@ -1,7 +1,118 @@
-{
-  "results" [
+[
     {
-      "question": "How old am I?"
+        "category": [
+            "antifoam",
+            "asRequired",
+            "equipmentAudit",
+            "daily",
+            "extra",
+            "frequency",
+            "monthly",
+            "replace",
+            "request",
+            "requestBy",
+            "sam",
+            "weekend",
+            "weekly"
+        ]
+    },
+    {
+        "antifoam": [
+            "anti foam cold water inside",
+            "anti foam hot water inside",
+            "anti foam hot water outside (main)"
+        ]
+    },
+    {
+        "equipmentAudit": {
+            "high pressure units": [
+                "fixed",
+                "portable"
+            ],
+            "chemical foaming units": [
+                "fixed",
+                "portable"
+            ]
+        }
+    },
+    {
+        "request": {
+            "requestBy": [
+                "maintenance electrical",
+                "maintenance mechanical",
+                "production employee",
+                "production manager",
+                "quality control",
+                "sanitation manager",
+                "shift manager",
+                "shift supervisor"
+            ]
+        }
+    },
+    {
+        "frequency": {
+            "asRequired": [
+                "fresh oil tanks (outside factory) catchments x 3",
+                "hose under dryer",
+                "overnight oil tanks (inside factory) catchments x 1",
+                "qc lab oil tanks",
+                "spiral freezer electrical cabinets ",
+                "spiral freezer troughs",
+                "stairs to training room",
+                "tunnel freezer electrical cabinets ",
+                "tunnel freezer troughs"
+            ],
+            "daily": [
+                "empty ashtray at smokers hut",
+                "empty production waste bins",
+                "empty rubbish bin at smokers hut",
+                "refill beard nets",
+                "refill blue hand roll dispensers",
+                "refill earplugs",
+                "refill hairnets",
+                "refill hand sanitiser dispensers",
+                "refill hand soap dispensers",
+                "wipe down dispensers at factory entrances",
+                "wipe down hand wash stations at factory entrances"
+            ],
+            "monthly": [
+                "administration building pathway",
+                "agriculture office surrounds",
+                "clock card room",
+                "main turnstile surrounds",
+                "maintenance workshop surrounds",
+                "old specialties building surrounds",
+                "raw grading entrance"
+            ],
+            "weekend": [
+                "pathway leading into factory",
+                "roadway between dry store and factory  ",
+                "stairs to canteen",
+                "walkways in factory"
+            ],
+            "weekly": [
+                "drains at factory entrance",
+                "drains in packing room",
+                "oil delivery truck parking area"
+            ]
+        }
+    },
+    {
+        "location": [
+            "case deck",
+            "cutting & sorting",
+            "factory external ",
+            "grading final",
+            "packing room",
+            "peeler house",
+            {
+                "process": [
+                    "fry line",
+                    "shred line"
+                ]
+            },
+            "qc lab",
+            "raw grading"
+        ]
     }
-  ]
-}
+]
