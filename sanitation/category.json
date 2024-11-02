@@ -1,0 +1,23 @@
+[
+  {
+      "category": [
+          "additional",
+          "antifoam",
+          "audit",
+          "chemical",
+          "daily",
+          "department",
+          "equipment",
+          "extra",
+          "frequency",
+          "location",
+          "monthly",
+          "replace",
+          "request",
+          "sam",
+          "weekend",
+          "weekly",
+          "nonessential"
+      ]
+  }
+]

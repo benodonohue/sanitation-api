@@ -1,0 +1,11 @@
+{
+    "frequency": [
+        "additional",
+        "daily",
+        "extra",
+        "monthly",
+        "nonessential",
+        "weekend",
+        "weekly"
+    ]
+}

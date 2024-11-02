@@ -1,0 +1,26 @@
+{
+    "antifoam": {
+        "cold water": [
+            {
+                "id": "1",
+                "task": "change 1000L IBC (intermediate bulk container)",
+                "location": "cutting & sorting",
+                "description": ""
+            }
+        ],
+        "hot water": [
+            {
+                "id": "1",
+                "task": "change 1000L IBC (intermediate bulk container)",
+                "location": "cutting & sorting",
+                "description": "FG601"
+            },
+            {
+                "id": "1",
+                "task": "change 1000L IBC (intermediate bulk container)",
+                "location": "external factory",
+                "description": "FG601"
+            }
+        ]
+    }
+}

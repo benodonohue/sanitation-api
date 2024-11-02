@@ -1,0 +1,22 @@
+{
+    "location": [
+        "blade room",
+        "case deck",
+        "cleaning shed",
+        "cutting and sorting",
+        "dry store",
+        "external yard",
+        "external factory",
+        "grading final",
+        "grading raw",
+        "packing room",
+        "peeler house",
+        "qc laboratory",
+        {
+            "process": [
+                "fry line",
+                "shred line"
+            ]
+        }
+    ]
+}

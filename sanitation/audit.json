@@ -1,0 +1,12 @@
+{
+    "audit": {
+        "high pressure units": [
+            "fixed",
+            "portable"
+        ],
+        "chemical foaming units": [
+            "fixed",
+            "portable"
+        ]
+    }
+}

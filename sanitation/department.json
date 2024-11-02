@@ -1,0 +1,12 @@
+{
+    "department": [
+        "maintenance electrical",
+        "maintenance mechanical",
+        "production employee",
+        "production manager",
+        "quality control",
+        "sanitation manager",
+        "shift manager",
+        "shift supervisor"
+    ]
+}
