@@ -1,1 +1,1 @@
-# sanitation-api
+# sanitation
